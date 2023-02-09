@@ -3,3 +3,17 @@ h1 {
     font-size: x-large;
     color: purple
 }
+
+div {
+    color: rgb(109, 1, 1);
+}
+
+a {
+    color: green;
+    text-decoration: none;
+}
+
+/* a {
+    color: blue;
+    text-decoration: underline;
+} */
